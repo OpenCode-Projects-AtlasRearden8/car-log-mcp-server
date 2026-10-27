@@ -1,0 +1,8 @@
+# python
+__pycache__/
+*.pyc
+
+# local data (your car logbook belongs on your machine, not in the repo)
+data/
+*.bak
+*.json.tmp
